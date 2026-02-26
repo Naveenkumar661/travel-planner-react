@@ -29,7 +29,3 @@ This project is currently under development. Core frontend and backend structure
 ## Author
 Naveen Kumar E
 GitHub: https://github.com/Naveenkumar661
-
-## Author
-Naveen Kumar E
-GitHub: https://github.com/Naveenkumar661
